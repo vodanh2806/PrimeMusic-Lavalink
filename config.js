@@ -17,7 +17,7 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Nakhun,
+      name: "Nakhun",
       password: "lavalink",
       host: "194.102.181.219",
       port:  3827,
