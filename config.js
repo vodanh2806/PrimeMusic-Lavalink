@@ -2,7 +2,7 @@
 
 module.exports = {
   TOKEN: "",
-  language: "en",
+  language: "vi",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://sativa:sativa@discordbot.2ij4joh.mongodb.net/?retryWrites=true&w=majority",
   spotifyClientId : "f71a3da30e254962965ca2a89d6f74b9",
